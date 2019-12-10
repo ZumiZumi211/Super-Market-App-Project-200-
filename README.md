@@ -1,0 +1,2 @@
+# Super-Market-App-Project-200-
+A basic super market app based on C++ programing and Microsoft Excel. This was done as a project on project 200 course in 2-2 semester.  Features: 1.Provides option to buy products, show receipt and feedback. 2.Gives lists of all products based on different product corners. 3.Generate receipts based on bought product and saves it later.  4.Gives privileged customer service based on your buying and keeps track of it. 5.Shows Receipts and feedback from stored files.
